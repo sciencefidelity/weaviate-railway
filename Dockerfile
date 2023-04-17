@@ -1,1 +1,1 @@
-FROM semitechnologies/weaviate
+FROM semitechnologies/weaviate:latest
